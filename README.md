@@ -4,7 +4,7 @@
 
 ### Simple Web Application | React, Bootstrap
 
-Code can be found [here](https://github.com/nekotletta/WebDev/profile-app)
+Code can be found [here](https://github.com/nekotletta/WebDev/tree/main/profile-app)
 
 A simple web application, which includes the following sections:
 - Navigation bar
@@ -16,7 +16,7 @@ A simple web application, which includes the following sections:
 
 ### RESTFul API | NodeJS, ExpressJS
 
-Code can be found [here](https://github.com/nekotletta/WebDev/api-hw)
+Code can be found [here](https://github.com/nekotletta/WebDev/tree/main/api-hw/my-express-api-demo2)
 
 A simple RESTFul API built with NodeJS and ExpressJS which allows users to manage their profile details. The endpoints are as follows:
 - User's information
@@ -27,7 +27,7 @@ A simple RESTFul API built with NodeJS and ExpressJS which allows users to manag
 
 ### Fullstack profile | React, NodeJS, ExpressJS, Bootstrap
 
-Code can be found [here](https://github.com/nekotletta/WebDev/fullstack)
+Code can be found [here](https://github.com/nekotletta/WebDev/tree/main/fullstack)
 
 Course's final project. Connect the API to the frontnend to make it fullstack. In addition to connecting them, the following features were added:
 - Authentication / login / JWT
