@@ -1,0 +1,47 @@
+.exp-table {
+    height: 50px;
+    font-size: 25px;
+}
+
+.indent {
+    padding-left: 40px;
+}
+
+.mobile-display {
+    display: none;
+}
+
+.space-navbar {
+    padding: 50px 0;
+}
+
+/* my json is a single string for all intensive purposes. */
+/* i need to separate it into paragraphs */
+/* source: https://stackoverflow.com/questions/27774702/is-there-a-way-a-white-space-pre-wrap-texts-next-line-spacing-can-be-larger */
+.format-json {
+    white-space: pre-line;  
+    line-height: 2em;
+}
+
+.space-languages {
+    padding: 20px 0;
+}
+
+/* separate both work experiences, easier to read */
+.separator {
+    display: block;
+    border-bottom: solid 5px white;
+}
+
+@media (max-width: 575px) {
+    .computer-display {
+        display: none;
+    }
+    .mobile-display {
+        display: block; 
+    }
+    /* not needed on phone view, it's stacked on top of each other */
+    .separator {
+        border-bottom: solid 0px white;
+    }
+}
